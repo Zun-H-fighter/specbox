@@ -1,0 +1,19 @@
+<wantedDtl>
+  <wantedAuthNo>K151612511180001</wantedAuthNo>
+  <corpInfo><corpNm>누리클라우드</corpNm></corpInfo>
+  <wantedInfo>
+    <wantedTitle>2027 상반기 신입 클라우드 엔지니어</wantedTitle>
+    <jobCont>AWS 기반 인프라 구축 및 운영</jobCont>
+    <receiptCloseDt>20261120</receiptCloseDt>
+    <enterTpCd>N</enterTpCd>
+    <eduNm>대졸(4년)</eduNm>
+    <major>컴퓨터공학</major>
+    <forLang>영어</forLang>
+    <certificate>정보처리기사</certificate>
+    <pfCond>AWS 운영 경험자</pfCond>
+    <etcPfCond>Terraform 사용 경험자</etcPfCond>
+    <submitDoc>이력서, 자기소개서, 졸업(예정)증명서(최근 3개월 이내 발급), 성적증명서, TOEIC 성적표, 정보처리기사 자격증 사본, 포트폴리오</submitDoc>
+    <keywordList><srchKeywordNm>클라우드</srchKeywordNm><srchKeywordNm>AWS</srchKeywordNm></keywordList>
+    <jobsCd>133100</jobsCd>
+  </wantedInfo>
+</wantedDtl>
